@@ -6,6 +6,10 @@ I work with executives to define the problem, architect the solution with engine
 
 Portfolio and CV: [efraprojects.com](https://efraprojects.com)
 
+## About this GitHub
+
+Most of my 17 years of work lives in private repositories owned by the companies and clients I built it for, so it cannot be shown here. This account holds my own projects, published as curated public snapshots: each one is developed privately and released with credentials, account identifiers and private data removed, which is why every repository starts with a single commit. Live demos and walkthroughs are linked below and on [efraprojects.com](https://efraprojects.com).
+
 ## Featured systems
 
 | Project | What it shows | Stack |
