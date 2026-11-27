@@ -42,4 +42,6 @@ C# / .NET, TypeScript and React, SQL Server, Python and FastAPI, Swift. Claude, 
 
 ## Contact
 
+Open to conversations about senior applied AI, solutions architecture and AI platform roles. The quickest way to reach me is email.
+
 [efraprojects.com](https://efraprojects.com) · [LinkedIn](https://www.linkedin.com/in/efraim-hernandez-a842431b0/) · jobs.efrahdz@gmail.com
