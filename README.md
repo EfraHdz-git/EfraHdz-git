@@ -1,6 +1,6 @@
 # Efraim Hernandez
 
-**Principal Architect, Applied AI.** 17+ years in enterprise software, from hands-on development and SAP integration to staff-level engineering and global platform architecture.
+**Principal Software Architect, Applied AI.** 17+ years in enterprise software, from hands-on development and SAP integration to staff-level engineering and global platform architecture.
 
 I work with executives to define the problem, architect the solution with engineering teams, and personally build the critical parts: agent systems on Claude and Amazon Bedrock, MCP servers secured with OAuth, and LLM pipelines that are evaluated and grounded in evidence. Today I lead the architecture and on-site rollout of a global R&D platform across three continents, and I run Codetrend, a multi-tenant SaaS company live in Mexico.
 
